@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tasks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="content">
+        <p class="heading">Spo2</p>
+        <div class="body-main">
+            <p id="Percentage"></p>
+            <div id="Arrow-Indicator">
+                <img id="down-arrow-icon" src="Icons/down-filled-triangular-arrow.png">
+            </div>
+            <div class="health-indicator">
+                <div class="Low"><span style="background-color: rgb(121, 119, 119);">Low</span></div>
+                <div class="Healthy"><span
+                        style="background-color: rgb(77, 75, 75); padding: 6px 0px 6px 0px;">Healthy</span></div>
+            </div>
+            <br>
+            <div id="margin">
+                <p id="Spo2-indicator">width</p>
+            </div>
+            <div class="vertical-line">
+                <div class="low-value-line"></div>
+                <div class="start-of-highest-value-line"></div>
+                <div class="highest-value-line"></div>
+            </div>
+            <p id="footer-percentage">
+            <div id="low-percentage"></div>
+            <div id="start-of-high-percentage"></div>
+            <div id="high-percentage"></div>
+            </p>
+        </div>
+    </div>
+</body>
+<script src="task.js"></script>
+
+</html>

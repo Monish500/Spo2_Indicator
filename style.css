@@ -1,0 +1,108 @@
+.content {
+    width: 300px;
+    margin-left: 300px;
+    font-size: large;
+    font-weight: bold;
+    padding: 15px;
+}
+
+/* Overall Body */
+
+.body-main {
+    line-height: 0px;
+    width: 300px;
+}
+
+/*  Top Percentage Text Indicator  */
+
+#Arrow-Indicator {
+    border: white solid;
+}
+
+/* Health Indicator */ 
+
+.content .body-main .health-indicator {
+    background-color: grey;
+    font-size: medium;
+    display: flex;
+    color: white;
+    width: 107.2%;
+    text-align: center;
+    padding: 14px 0px 14px 0px;
+}
+
+.content .body-main .health-indicator .Low {
+    color: white;
+    width: 90%;
+    font-size: smaller;
+}
+
+.content .body-main .health-indicator .Healthy {
+    width: 14%;
+    color: white;
+    font-size: smaller;
+}
+
+/* Spo2 Indicator and It's Margin */
+
+#margin {
+    width: 300px;
+    padding: 5px;
+    border: solid black 6px;
+}
+
+#Spo2-indicator {
+    background-color: black;
+    width: 100%;
+    height: 10px;
+    font-size: 1px;
+}
+
+/* Bottom Line Indicator */
+
+.vertical-line {
+    width: 300px;
+    display: flex;
+}
+
+.low-value-line {
+    border-left: 3px solid black;
+    height: 10px;
+    margin-left: 0px;
+}
+
+.start-of-highest-value-line {
+    border-left: 3px solid black;
+    height: 10px;
+    margin-left: 276px;
+}
+
+.highest-value-line {
+    border-left: 3px solid black;
+    height: 10px;
+    margin-left: 37px;
+}
+
+/* Footer Percentage */
+
+#footer-percentage {
+    font-size: small;
+    display: flex;
+}
+
+#low-percentage {
+    margin-left: 0%;
+    font-size: small;
+}
+
+#start-of-high-percentage {
+    margin-left: 90% !important;
+    font-size: small;
+}
+
+#high-percentage {
+    margin-left: 100%;
+    font-size: small;
+}
+
+

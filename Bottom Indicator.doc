@@ -1,0 +1,34 @@
+Bottom Indicator Tried Steps
+
+
+// Deepak Sir Idea:-
+
+<div id="Foot">
+                <div id="first" style="100%">
+                    <div id= "first-sub" style="width:20%; border-left:3px solid rgb(0, 0, 0); text-align:right;margin-left: 0%;"> <span> 50</span>
+                    </div> 
+                </div>
+            
+                <div id="second" style="100%; margin-top:-20px;"> 
+                        <div id="second-sub" style="width:50%; border-left:3px solid rgb(0, 0, 0); text-align:right; margin-left: 95%;"> <span> 95</span>
+                        </div> 
+                </div>
+            
+                <div id="third" style="100%; margin-top:-20px;"> 
+                    <div id="third-sub" style="width:30%; border-left:1px solid rgb(0, 0, 0); text-align:right; margin-left: 100%;"> <span> 100</span>
+                    </div>
+                </div><div id="first" style="100%">
+                <div id= "first-sub" style="width:20%; border-left:1px solid rgb(0, 0, 0); text-align:right;margin-left: 0%;"> <span> 50</span>
+                </div> 
+            </div>
+        
+            <div id="second" style="100%; margin-top:-20px;"> 
+                    <div id="second-sub" style="width:50%; border-left:1px solid rgb(0, 0, 0); text-align:right; margin-left: 95%;"> <span> 95</span>
+                    </div> 
+            </div>
+        
+            <div id="third" style="100%; margin-top:-20px;"> 
+                <div id="third-sub" style="width:30%; border-left:1px solid rgb(0, 0, 0); text-align:right; margin-left: 100%;"> <span> 100</span>
+                </div>
+            </div>
+</div>
