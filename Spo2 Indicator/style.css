@@ -82,14 +82,17 @@
     /* margin-left: 282px; */
     position: relative;
     bottom: 10px;
+    left: 8px;
+    font-size: large;
 }
 
 #highest-value-line {
     border-left: 3px solid black;
     height: 10px;
-    margin-left: 106.3%;
+    margin-left: 106.4%;
     position: relative;
     bottom: 20px;
+    
 }
 
 /* Footer Percentage */
