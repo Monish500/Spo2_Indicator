@@ -98,6 +98,7 @@
 /* Footer Percentage */
 
 #footer-percentage {
+    margin-top: -35px;
     width: 100%;
     font-size: small;
     display: flex;
@@ -106,15 +107,21 @@
 #low-percentage {
     margin-left: 0%;
     font-size: small;
+    position: relative;
+    right: 10px;
 }
 
 #Healthy-Value-Percentage {
     width: 100%;
     margin-left: 90%;
     font-size: small;
+    position: relative;
+    left: 3px;
 }
 
 #high-percentage {
     margin-left: 100%;
     font-size: small;
+    position: relative;
+    left: 10px;
 }
