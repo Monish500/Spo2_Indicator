@@ -1,0 +1,15 @@
+Task:- Creating an Spo2 Indicator Using HTML, CSS, JavaScript
+
+Steps to Complete the Task:
+
+1. Create the Exact Design of Spo2                                                                 //   Completed
+2. Create Only the Width Indicator Functionality                                                   //   Completed
+3. Create JSON                                                                                     //   Completed
+4. Make the %, Down-Arrow-Icon, Health Indicator Width, Spo2 indicator Width and % Indicator at 
+Bottom Move Dynamically Only by Entering the Healthy Value Level (Healthy_Value) in JSON           //   Inprogress
+5. Find the Value for Given Formula for X-Axis                                                     //   Completed
+6. Find the Value for Given Value for Background Color Calculation                                 //   Completed 
+7. Bind the formula Values with HTML.                                                              //   Completed
+
+
+// Task Is Completed //

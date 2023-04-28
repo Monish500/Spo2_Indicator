@@ -1,0 +1,41 @@
+1. Bottom Indicator Tried Steps        Time Taken : 3days and 2Hrs            Task Status : Completed
+
+
+// Deepak Sir Idea:-   Failed
+
+<div id="Foot">
+                <div id="first" style="100%">
+                    <div id= "first-sub" style="width:20%; border-left:3px solid rgb(0, 0, 0); text-align:right;margin-left: 0%;"> <span> 50</span>
+                    </div> 
+                </div>
+            
+                <div id="second" style="100%; margin-top:-20px;"> 
+                        <div id="second-sub" style="width:50%; border-left:3px solid rgb(0, 0, 0); text-align:right; margin-left: 95%;"> <span> 95</span>
+                        </div> 
+                </div>
+            
+                <div id="third" style="100%; margin-top:-20px;"> 
+                    <div id="third-sub" style="width:30%; border-left:1px solid rgb(0, 0, 0); text-align:right; margin-left: 100%;"> <span> 100</span>
+                    </div>
+                </div><div id="first" style="100%">
+                <div id= "first-sub" style="width:20%; border-left:1px solid rgb(0, 0, 0); text-align:right;margin-left: 0%;"> <span> 50</span>
+                </div> 
+            </div>
+        
+            <div id="second" style="100%; margin-top:-20px;"> 
+                    <div id="second-sub" style="width:50%; border-left:1px solid rgb(0, 0, 0); text-align:right; margin-left: 95%;"> <span> 95</span>
+                    </div> 
+            </div>
+        
+            <div id="third" style="100%; margin-top:-20px;"> 
+                <div id="third-sub" style="width:30%; border-left:1px solid rgb(0, 0, 0); text-align:right; margin-left: 100%;"> <span> 100</span>
+                </div>
+            </div>
+</div>
+
+
+// Mano Chitra Idea : Try to Increase The width For Main(Parent) Div and also for Sub-Divs (Child Divs) Try to Apply The Same   // Failed
+
+// Ashley Bro Idea  : Try To Create A Columns Using the Div and try to Implement The width Margin Left  // Failed
+
+//  Atlast i Got an Idea to Use the X-Axis Formula for Healthy Value and It Worked!!!.   // Worked 
