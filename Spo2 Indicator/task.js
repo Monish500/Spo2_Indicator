@@ -1,7 +1,7 @@
 // I'll be Creating an JSON for Console Verification 
 const Reference_Value = {
     Low_Reference_Value: 50,
-    User_Vital_Value: 76,
+    User_Vital_Value: 95,
     High_Reference_Value: 100,
     Healthy_Value: 95
 }
